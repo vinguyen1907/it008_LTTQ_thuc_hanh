@@ -1,0 +1,17 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\bin\Debug\net6.0-windows\Bai2.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\bin\Debug\net6.0-windows\Bai2.deps.json
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\bin\Debug\net6.0-windows\Bai2.runtimeconfig.json
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\bin\Debug\net6.0-windows\Bai2.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\bin\Debug\net6.0-windows\Bai2.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.Form1.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.AssemblyInfoInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.AssemblyInfo.cs
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\refint\Bai2.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\Bai2.genruntimeconfig.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net6.0-windows\ref\Bai2.dll

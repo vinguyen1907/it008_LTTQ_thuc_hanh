@@ -1,0 +1,17 @@
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\bin\Debug\net6.0-windows\Bai6.exe
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\bin\Debug\net6.0-windows\Bai6.deps.json
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\bin\Debug\net6.0-windows\Bai6.runtimeconfig.json
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\bin\Debug\net6.0-windows\Bai6.dll
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\bin\Debug\net6.0-windows\Bai6.pdb
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.csproj.AssemblyReference.cache
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.Form1.resources
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.csproj.GenerateResource.cache
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.AssemblyInfoInputs.cache
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.AssemblyInfo.cs
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.csproj.CoreCompileInputs.cache
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.dll
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\refint\Bai6.dll
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.pdb
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\Bai6.genruntimeconfig.cache
+D:\LEARNING\SUBJECTS\LTTQ\THUC HANH\BTH3_NguyenTienVi_21522788\Bai6\obj\Debug\net6.0-windows\ref\Bai6.dll

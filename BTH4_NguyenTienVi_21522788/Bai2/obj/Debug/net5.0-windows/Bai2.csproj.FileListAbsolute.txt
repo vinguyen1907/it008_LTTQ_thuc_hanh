@@ -1,0 +1,7 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.Form1.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.AssemblyInfoInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.AssemblyInfo.cs
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Subjects\4. LTTQ\THUC HANH\Lab4_21522788_NguyenTienVi\Bai2\obj\Debug\net5.0-windows\Bai2.csproj.CoreCompileInputs.cache

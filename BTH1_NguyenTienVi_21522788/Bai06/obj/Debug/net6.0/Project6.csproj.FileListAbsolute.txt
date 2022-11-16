@@ -1,0 +1,30 @@
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\bin\Debug\net6.0\Project6.exe
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\bin\Debug\net6.0\Project6.deps.json
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\bin\Debug\net6.0\Project6.runtimeconfig.json
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\bin\Debug\net6.0\Project6.dll
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\bin\Debug\net6.0\Project6.pdb
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.csproj.AssemblyReference.cache
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.AssemblyInfoInputs.cache
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.AssemblyInfo.cs
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.csproj.CoreCompileInputs.cache
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.dll
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\refint\Project6.dll
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.pdb
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\Project6.genruntimeconfig.cache
+D:\Học tập\MÔN HỌC\LTTQ\THUC HANH\ConsoleApp1\Project6\obj\Debug\net6.0\ref\Project6.dll
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\bin\Debug\net6.0\Project6.exe
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\bin\Debug\net6.0\Project6.deps.json
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\bin\Debug\net6.0\Project6.runtimeconfig.json
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\bin\Debug\net6.0\Project6.dll
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\bin\Debug\net6.0\Project6.pdb
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.csproj.AssemblyReference.cache
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.AssemblyInfoInputs.cache
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.AssemblyInfo.cs
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.csproj.CoreCompileInputs.cache
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.dll
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\refint\Project6.dll
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.pdb
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\Project6.genruntimeconfig.cache
+D:\Học tập\SUBJECTS\LTTQ\THUC HANH\BTH1\Project6\obj\Debug\net6.0\ref\Project6.dll
